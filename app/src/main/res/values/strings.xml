@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GoogleMapsInteractions</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="enable_zoom_controls">Enable Zoom Controls</string>
+    <string name="enable_zoom_gesture">Enable Zoom Gesture</string>
+
+    <string name="disable_zoom_controls">Disable Zoom Controls</string>
+    <string name="disable_zoom_gesture">Disable Zoom Gesture</string>
+    <string name="enable_compass">Enable Compass</string>
+    <string name="disable_compass">Disable Compass</string>
+    <string name="map_type_normal">Normal</string>
+    <string name="map_type_terrain">Terrain</string>
+    <string name="map_type_satellite">Satellite</string>
+    <string name="map_type_hybrid">Hybrid</string>
+    <string name="map_type_none">None</string>
+    <string name="map_type_item">Map Type</string>
+    <string name="ui_settings_item">UI Settings</string>
+    <string name="show_user_location">Show user location</string>
+
+</resources>

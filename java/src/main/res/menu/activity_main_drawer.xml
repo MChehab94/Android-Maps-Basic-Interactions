@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <item android:title="@string/map_type_item">
+        <menu>
+            <item
+                    android:id="@+id/normal"
+                    android:title="@string/map_type_normal"
+                    android:checkable="true"
+                    android:checked="false"/>
+            <item
+                    android:id="@+id/terrain"
+                    android:title="@string/map_type_terrain"
+                    android:checkable="true"
+                    android:checked="false"/>
+            <item
+                    android:id="@+id/satellite"
+                    android:title="@string/map_type_satellite"
+                    android:checkable="true"
+                    android:checked="false"/>
+
+            <item
+                    android:id="@+id/hybrid"
+                    android:title="@string/map_type_hybrid"
+                    android:checkable="true"
+                    android:checked="false"/>
+
+            <item
+                    android:id="@+id/none"
+                    android:title="@string/map_type_none"
+                    android:checkable="true"
+                    android:checked="false"/>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/showUserLocation"
+        android:title="@string/show_user_location"/>
+
+</menu>
